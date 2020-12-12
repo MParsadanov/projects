@@ -29,4 +29,4 @@
 
 ## Используемые библиотеки
 
-*pandas* *numpy* *seaborn* *sklearn*
+*pandas* *numpy* *matplotlib* *seaborn* *sklearn*
